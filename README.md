@@ -2,7 +2,7 @@
 Pinecone Vector Databases
 
 
-to run this python code you will need the Pinecone and Openai libraries (dependancies.py)
+to run this python code you will need the Pinecone and Openai libraries (pip install pinecone-client    pip install openai)
 
 
 Create a free Pinecone starter account here: https://www.pinecone.io
