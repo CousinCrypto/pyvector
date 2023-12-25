@@ -8,3 +8,5 @@ Click the connect button for your new index here: https://app.pinecone.io/organi
 Copy your Api key and Environment (gcp-starter)
 
 To do your first upload to Pinecone vector database you should run first.py
+
+To query the vector database you should run query.py
