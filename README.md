@@ -1,6 +1,10 @@
 # pyvector
 Pinecone Vector Databases
 
+
+to run this python code you will need the Pinecone and Openai libraries (dependancies.py)
+
+
 Create a free Pinecone starter account here: https://www.pinecone.io
 Inside pinecone create a free Project (Name whatever)
 Inside pinecone create a free Index (Name whatever)
